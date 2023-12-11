@@ -1,4 +1,4 @@
-This repository provides R code implementing the weighted Bayesian bootstrap (WBB) for robust Bayesian Gaussian graphical model (RBGGM), as proposed by the following paper.
+This repository provides R code implementing the weighted Bayesian bootstrap (WBB) algorithm for the robust Bayesian Gaussian graphical model (RBGGM) via $\gamma$-divergence, as proposed by the following paper.
 
 Onizuka. T. and Hashimoto. S. (2023), Robust Bayesian graphical modeling using $\gamma$-divergence.
 
