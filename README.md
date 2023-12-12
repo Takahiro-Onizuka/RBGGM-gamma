@@ -6,4 +6,4 @@ The repository includes the following files.
 
 * ```RBGGM-function.R```: Implementation of the WBB algorithm for RBGGM.
 
-* ```RBGGM-example.R```: One-shot example of fitting RBGGM.
+* ```RBGGM-example.R```: One-shot example of fitting the RBGGM method.
